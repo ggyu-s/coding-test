@@ -7,6 +7,7 @@
 - ant-design
 
 - styled-components
+- Sequelize ORM (MySQL)
 
 ## 기능
 
